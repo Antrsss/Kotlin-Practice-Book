@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!--it specifies the same ID as the
+    SettingsFragment destination in the navigation graph, android:id="@+id/nav_
+    settings", so it will open the SettingsFragment fragment-->
+    <item
+        android:id="@+id/nav_settings"
+        android:title="@string/settings"
+        app:showAsAction="never" />
+        <!--  app:showAsAction="never" ensures it will stay as a menu
+        option within the three dots overflow menu
+        and will not appear on the app bar itself-->
+
+</menu>

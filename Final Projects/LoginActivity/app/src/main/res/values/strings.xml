@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Login Activity</string>
+    <string name="username_text">Username:</string>
+    <string name="password_text">Password:</string>
+    <string name="login_button_text">LOGIN</string>
+    <string name="empty_field_text">Fill all fields!</string>
+    <string name="wrong_filled_field">Wrong username or password!</string>
+    <string name="username">antaresss</string>
+    <string name="password">kotlin</string>
+    <string name="welcome_text">Welcome %s to our app!</string>
+</resources>

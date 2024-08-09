@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CeateRGB</string>
+    <string name="app_header">Create an RGB Color</string>
+    <string name="app_description">Add two hexadecimal characters between 0-9, A-F or a-f without the \'#\' for each channel</string>
+    <string name="red_channel">Red Channel</string>
+    <string name="green_channel">Green Channel</string>
+    <string name="blue_channel">Blue Channel</string>
+    <string name="button_header">CREATE RGB COLOR</string>
+    <string name="panel_header">Created color display panel</string>
+    <string name="invalid_characters_found">Invalid Characters Found</string>
+</resources>
